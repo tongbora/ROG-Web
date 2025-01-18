@@ -1,0 +1,8 @@
+@font-face {
+  font-family: ROG-FONT;
+  src: url(/font/ROGLyonsTypeRegular3.ttf);
+}
+.logo-text {
+  font-family: ROG-FONT;
+  font-size: 36px;
+}

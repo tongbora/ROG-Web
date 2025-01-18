@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: ROG-FONT;
+  src: url(/font/ROGLyonsTypeRegular3.ttf);
+}
